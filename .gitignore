@@ -1,0 +1,9 @@
+.sass-cache
+.DS_Store
+dist
+entry/hotel/tpl/.cache/*
+entry/hotel/tpl/template.js
+.idea/
+aos/
+node_modules/
+npm-debug.log

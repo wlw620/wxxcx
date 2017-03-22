@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/wlw620/wxxcx/issues"
   },
-  "homepage": "https://github.com/wlw620/wxxcx#readme"
+  "homepage": "https://github.com/wlw620/wxxcx#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.0.0",
+    "validate-commit-msg": "^2.11.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
